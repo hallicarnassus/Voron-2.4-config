@@ -17,3 +17,5 @@ I'll upload some of the cabling to the images folder where you can see the contr
 
 The mail slicer I'm currently using is Simplify3D v5.0.1 and will store the profiles here once I've dialled it in.
 Other slicers such as SuperSlicer and Cura will eventually make it here but for the meantime I'm pretty happy with the results from S3D.
+
+There's still a way to go with the final touches to the build, finishing the enclosure, the skirting and adding some decent lighting inside, along with somewhere to mount the USB camera for capturing timelapse video of each print.
