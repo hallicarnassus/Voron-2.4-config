@@ -1,4 +1,4 @@
-# Voron-2.4-config
+# Voron 2.4 Build, config, and cable pron
 ## My Voron 2.4 350mm Build & Config
 
 This page will document the config and slicer profiles used for a Voron 2.4 350x350x350mm 3D Printer.
