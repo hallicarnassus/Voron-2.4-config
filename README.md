@@ -15,7 +15,7 @@ Currently the printer features the following features:
 
 I'll upload some of the cabling to the images folder where you can see the contrahelically would main loom from the BTT Octopus to the hotend/extruder assembly and also the wiring that I done for the electronics, I'm a bit of a fan of keeping things neat and tidy and opted for lacing all of the electrical wiring underneath.
 
-The mail slicer I'm currently using is Simplify3D v5.0.1 and will store the profiles here once I've dialled it in.
+The main slicer I'm currently using is Simplify3D v5.0.1 and will store the profiles here once I've dialled it in.
 Other slicers such as SuperSlicer and Cura will eventually make it here but for the meantime I'm pretty happy with the results from S3D.
 
 There's still a way to go with the final touches to the build, finishing the enclosure, the skirting and adding some decent lighting inside, along with somewhere to mount the USB camera for capturing timelapse video of each print.
